@@ -12,7 +12,7 @@ Clean and easy-to-navigate layout
 Custom styling without any external libraries or frameworks
 
 🚀 Live Demo
-Click here to view the live site ()
+Click here to view the live site (https://coderaajiv.github.io/protfolio-simple-website/)
 
 📂 Project Structure
 /index.html
